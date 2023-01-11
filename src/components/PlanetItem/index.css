@@ -1,0 +1,10 @@
+.planet-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.planet-image {
+  height: 300px;
+  width: 400px;
+}
